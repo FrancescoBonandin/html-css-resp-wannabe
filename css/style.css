@@ -151,4 +151,14 @@ img {
         margin-bottom: 4rem;
     }
     
+    .why-us{
+        background-color: #222222;
+        padding-top: 3rem;
+    }
+
+    .why-us, .steps{
+        margin-bottom: 0;
+
+    }
+
 }
